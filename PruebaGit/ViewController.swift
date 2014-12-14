@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         NSLog(@"Hola Caracola")
+        NSLog(@"Añadido desde Xcode. Para prueba de conflicto")
     }
 
     override func didReceiveMemoryWarning() {
